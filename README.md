@@ -1,0 +1,3 @@
+# SmartthingsPublic
+
+setting up repository
